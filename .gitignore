@@ -1,0 +1,23 @@
+# Virtualenv
+venvSRGANfix/
+
+# Image data 
+data2017/
+
+# Compiled python modules
+*.pyc
+
+# Pycache 
+__pycache__/
+
+# logs 
+logs/
+
+#logs server
+logs_server/
+
+# Npz files 
+*.npz 
+
+# Npy files 
+*.npy
